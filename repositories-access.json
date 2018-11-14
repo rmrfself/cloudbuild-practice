@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "jiaofu-io",
+  "private_key_id": "1c618b03e1a39a28681c3b04f23cf52014137dae",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDJuXlZAzEDg++2\nh5YxSoApFh7DjtiAgUXvfokEdYvro/tKyBfXSscbMae6mfK4ayqblTwUR9jQxeMK\nzfptjHuN5ZqBEwZxuqWkkS5AlTTejJkkoIYc8gGzqFHeIZvY8l9cU3vq7ZrRpVkc\n6Pn5HmrUpmyCUVuTVh68RObM+SPL076zZaeTLREQBLEjXjcsDwDNHeQkKR1khvwB\n53N57Vrt52H+a+StmEseB9cl0HmEVPKXnzIFid/Y8KCGhwRYkryozHswdLD8aV1N\nDU7ZcFT7OS2dlruaMa7i2ttuCdLHF6ZzGAY5/JxCsUcoaITyB9Zdfz8ARIco8rIn\nki2YzIoNAgMBAAECggEABij/0lQNScoxpnqlf4PYPhOgL4tL2UDECKLt6ZDytj4f\nt7znMs/kcf7Q3HCZv5VQ4RzBj5ena1i1Aj4gCPsNRYa0HSpI5sLduWolkMX9rf4l\nKb/X2J0bUt0vrX+L6X1ypA3N7vKqk6m0+vOyY9p7RgXUXSEW5tJDxgQPTZseGLn6\nEYFKPZuT/Kxuwg/N4iYDvCKp6gX8wC5mDw+2bJ3bTVLeuX1uO2BlvobLmwuXSlB1\nGmt4/DVVgelgtKgcQlK6C0faTxxKrkzZbyhK6PQ0KexR1fVW1iG0F4x7guGkIEf/\n90ofL/8pslLOp5nnlbwm8kdqyh3quaIZpUE1emekAQKBgQDvhXD8PDY2CJLKHIo/\nmktcGr8nwlC0Ndk5YKPmtkZYGyKPCmyNL+fSz6MfYjLI0JwKmCCPwdzSgCharV9W\naWKrH+eZ76ygEVSnMZJEel4kw8wDf9YzYjTGNkM/H3iAnZBhJEKO7IuVWz1GHdMz\n6R45IVPZiSLj/PPnJpmTHDfnzQKBgQDXmlbFEEsTR4ToEnBfBAw6giNKtL8nwPOS\nLTtYBXMsX14lHRSySt6L4wvtmA6jfw2+3inGSraN3qNwkT9wkKkdN3fdHzDlxyeB\nk3/khQwTdkxy/fbWOqXQH/uswuhuDrxH9QbHs/v7SXTm+tIjM8FGy3kIJa/xAGYR\n3aSDK5hrQQKBgAD4366GaAnsGvxrBTyg2bF0Alac+Urh9RHAjKnBD6QH6CoAdtRT\n33MBmL3l3iLmhdudJnSu6sCH+KH1li95mgbryDrduCumJlvPXbKddIhdqxRQjoQC\n4Af17GvzKsAK460hQovl9eMTTbpdIKBTT+YXdompftTCEBNeGr14Hdn5AoGBAIVx\nlnEEI6N8KavF9d0pUTRJZfSQKJw/VcJM0qUpQl7dbBTGig/MPTARyEk3SyAwvF49\nfVeo2JK4kSpUDBLsxm857Ktk6cveVvphQ9A59P56wtiNjeCMjiJiGVCVlmzAHBLh\nel/Sa4zdq0hnR/bXyrG5sGC1is88svAt4ev56K3BAoGATpxuJ5hk91VZRcb5RjOF\nyA40iZbYx5iIDnBvlxkQjEjKR13Y7D2veKChkrdqjdgsalTjRl3aH9YSvUhx21wx\n3i/JNHJKy9SmOAp61ztVmANZ0B9oARcr3mY97yidfn7nynTpiPRZD3o02eoFXSCy\nH/tj29z6gsESdZyuitO9EE4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "repositories-access@jiaofu-io.iam.gserviceaccount.com",
+  "client_id": "106107574832087065678",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/repositories-access%40jiaofu-io.iam.gserviceaccount.com"
+}
