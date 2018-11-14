@@ -17,7 +17,7 @@ steps:
       - './scripts/kustomize-apply.sh kubernetes/overlays/develop/'
     env:
       - 'CLOUDSDK_COMPUTE_ZONE=asia-southeast1-a'
-      - 'CLOUDSDK_CONTAINER_CLUSTER= jiaofu-io-cluster'
+      - 'CLOUDSDK_CONTAINER_CLUSTER=jiaofu-io-cluster'
   # 本番環境のデプロイ
   - name: 'gcr.io/cloud-builders/kubectl'
     entrypoint: 'bash'
@@ -26,4 +26,4 @@ steps:
       - './scripts/kustomize-apply.sh kubernetes/overlays/production/'
     env:
       - 'CLOUDSDK_COMPUTE_ZONE=asia-southeast1-a'
-      - 'CLOUDSDK_CONTAINER_CLUSTER= jiaofu-io-cluster'
+      - 'CLOUDSDK_CONTAINER_CLUSTER=jiaofu-io-cluster'
