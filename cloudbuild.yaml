@@ -18,6 +18,7 @@ steps:
     env:
       - 'CLOUDSDK_COMPUTE_ZONE=asia-southeast1-a'
       - 'CLOUDSDK_CONTAINER_CLUSTER=jiaofu-io-cluster'
+      - 'CLOUDSDK_CONTAINER_USE_APPLICATION_DEFAULT_CREDENTIALS=true'
   # 本番環境のデプロイ
   - name: 'gcr.io/cloud-builders/kubectl'
     entrypoint: 'bash'
@@ -27,3 +28,4 @@ steps:
     env:
       - 'CLOUDSDK_COMPUTE_ZONE=asia-southeast1-a'
       - 'CLOUDSDK_CONTAINER_CLUSTER=jiaofu-io-cluster'
+      - 'CLOUDSDK_CONTAINER_USE_APPLICATION_DEFAULT_CREDENTIALS=true'
