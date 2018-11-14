@@ -8,4 +8,4 @@ patches:
 
 imageTags:
   - name: asia.gcr.io/jiaofu-io/cloudbuild-practice
-    newTag: v0.0.4
+    newTag: v0.0.7
